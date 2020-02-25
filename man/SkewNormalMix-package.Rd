@@ -1,6 +1,6 @@
-\name{ComputingClubRcpp-package}
-\alias{ComputingClubRcpp-package}
-\alias{ComputingClubRcpp}
+\name{SkewNormalMix-package}
+\alias{SkewNormalMix-package}
+\alias{SkewNormalMix}
 \docType{package}
 \title{
 What the package does (short line)
@@ -11,7 +11,7 @@ More about what it does (maybe more than one line)
 }
 \details{
 \tabular{ll}{
-Package: \tab ComputingClubRcpp\cr
+Package: \tab SkewNormalMix\cr
 Type: \tab Package\cr
 Version: \tab 1.0\cr
 Date: \tab 2015-01-21\cr
